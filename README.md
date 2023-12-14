@@ -1,2 +1,2 @@
 # Codsoft
-Task of Codsoft as web developer intern
+Tasks of Codsoft as web developer intern
